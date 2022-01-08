@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is live on [gpt-3](https://vs-gpt-3.netlify.app/).
+This project is live on [gpt-3](https://vs-gpt3.netlify.app/).
 
 ## Available Scripts
 
